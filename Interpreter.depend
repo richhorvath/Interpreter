@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1552069172 source:c:\users\richh\desktop\school\advanced programming languages\interpreter\parse.cpp
+	<cctype>
+	<iostream>
+	<sstream>
+	<string>
+	"parse.h"
+
+1552069055 c:\users\richh\desktop\school\advanced programming languages\interpreter\parse.h
+
+1552069138 source:c:\users\richh\desktop\school\advanced programming languages\interpreter\symboltable.cpp
+	<string>
+	<vector>
+	"symboltable.h"
+
+1552069080 c:\users\richh\desktop\school\advanced programming languages\interpreter\symboltable.h
+
